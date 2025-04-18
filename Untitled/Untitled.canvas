@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e2974ad1c7c89ac1","x":1026,"y":-166,"width":400,"height":400,"type":"file","file":"ONCO.md"},
+		{"id":"93f95ac063970837","x":0,"y":0,"width":400,"height":400,"type":"file","file":"_SOKA.md"},
+		{"id":"61d61477ba0d22a8","x":87,"y":-639,"width":400,"height":400,"type":"file","file":"NEURO.md"}
+	],
+	"edges":[
+		{"id":"5d92038a270ac2fc","fromNode":"93f95ac063970837","fromSide":"top","toNode":"61d61477ba0d22a8","toSide":"bottom"},
+		{"id":"a70b54a90b9a064b","fromNode":"93f95ac063970837","fromSide":"right","toNode":"e2974ad1c7c89ac1","toSide":"left"}
+	]
+}

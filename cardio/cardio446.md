@@ -1,0 +1,34 @@
+---
+created: 2025-04-13
+updated: 2025-04-13T10:51
+id: BLH)?P>.38
+specialty: cardio
+specialty_id: 446
+tags:
+  - source/ak-original-decks::step-1::zanki-step-decks::zanki-cardiovascular::cardio-pathology
+  - source/ak-step1-v11::!flag-these-cards::sketchypathadds
+  - source/ak-step1-v11::
+  - theme/firstaid::07-cardiovascular::04-pathology::07-aortic-aneurysm
+  - source/ak-step1-v11::
+  - theme/firstaid::07-cardiovascular::04-pathology::07-aortic-aneurysm::abdominal-aortic-aneurysm
+  - source/ak-step1-v11::
+  - source/ome-banner::clinical::01-cardiology::08-hypertension
+  - source/ak-step1-v11::
+  - theme/physeo::11-pathology::01-cardiac-pathology::02-hypertension
+  - source/ak-step1-v11::
+  - theme/sketchypath::02-vascular::02-hypertension::02-aortic-aneurysm
+  - source/ak-step1-v11::
+  - theme/uworld::10000-99999::15000-15999::15354
+  - source/ak-step1-v11::^other::^expn::jbadd
+  - source/ak-step1-v11::^other::^highyield::1-highyield
+  - source/ak-step1-v11::^systems::cardio::jbadds"
+type: flashcard
+---
+
+# Question
+Screening abdominal ultrasound should be performed on what demographic?   **Male smoker >65yo with history of smoking**
+
+---
+
+# Answer
+* to check for abdominal aortic aneurysm  smoking = up to 15-fold risk increase

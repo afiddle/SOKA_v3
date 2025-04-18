@@ -1,0 +1,142 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "_NEURO",
+      "color": {
+        "a": 1,
+        "rgb": 16116059
+      }
+    },
+    {
+      "query": "_CARDIO",
+      "color": {
+        "a": 1,
+        "rgb": 12747008
+      }
+    },
+    {
+      "query": "_ENDO",
+      "color": {
+        "a": 1,
+        "rgb": 2831895
+      }
+    },
+    {
+      "query": "_ONCO",
+      "color": {
+        "a": 1,
+        "rgb": 326404
+      }
+    },
+    {
+      "query": "_IMMUNO",
+      "color": {
+        "a": 1,
+        "rgb": 16449533
+      }
+    },
+    {
+      "query": "_NEPHRO",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "_PHARMA",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "_PSYCH",
+      "color": {
+        "a": 1,
+        "rgb": 4982128
+      }
+    },
+    {
+      "query": "_ORTHO",
+      "color": {
+        "a": 1,
+        "rgb": 7432815
+      }
+    },
+    {
+      "query": "_HEMATO",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "_OBGYN",
+      "color": {
+        "a": 1,
+        "rgb": 14701249
+      }
+    },
+    {
+      "query": "_PULMO",
+      "color": {
+        "a": 1,
+        "rgb": 4478495
+      }
+    },
+    {
+      "query": "_MISC",
+      "color": {
+        "a": 1,
+        "rgb": 13831437
+      }
+    },
+    {
+      "query": "_GASTRO",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "_INFECTO",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "_PATHO",
+      "color": {
+        "a": 1,
+        "rgb": 3289662
+      }
+    },
+    {
+      "query": "_DERMA",
+      "color": {
+        "a": 1,
+        "rgb": 16719744
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 1.24783935546875,
+  "lineSizeMultiplier": 0.60902099609375,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 18.48388671875,
+  "linkStrength": 0.4779052734375,
+  "linkDistance": 333,
+  "scale": 0.5908545323738712,
+  "close": false
+}

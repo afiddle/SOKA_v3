@@ -1,0 +1,38 @@
+---
+created: 2025-04-13
+updated: 2025-04-13T10:53
+id: b2iL/lj>CT
+specialty: cardio
+specialty_id: 342
+tags:
+  - source/ak-original-decks::step-1::zanki-pharmacology
+  - "source/ak-step1-v11:": 
+  - theme/amboss
+  - "source/ak-step1-v11:": 
+  - theme/b&b::05-cardio::04-arrhythmias::06-antiarrhythmic-drugs
+  - "source/ak-step1-v11:": 
+  - theme/firstaid::07-cardiovascular::05-pharm::12-16-antiarrythmics::12-class-1-sodium-channel-blockers
+  - "source/ak-step1-v11:": 
+  - source/ome-banner::basic-science::09-cardiac::25-arrhythmias
+  - "source/ak-step1-v11:": 
+  - theme/physeo::09-pharm::10-cardiac::17-class-ia,-ib,-and-ic-antiarrhythmics
+  - "source/ak-step1-v11:": 
+  - theme/sketchypharm::02-cardio-&-renal::fa-cardio
+  - source/ak-step1-v11::$ankingupdates::$errata::v11
+  - source/ak-step1-v11::^other::^expn::bgadd
+  - source/ak-step1-v11::^other::^expn::bgnonessentials
+  - source/ak-step1-v11::^other::^expn::uworld
+  - source/ak-step1-v11::^other::^highyield::3-highyield-temporary
+  - source/ak-step1-v11::^systems::cardio::pharmacology
+  - "source/ak-step2-v11:": 
+  - theme/b&b::01-cardiology::pharm::cvs-pharm-1"
+type: flashcard
+---
+
+# Question
+Because Class IC antiarrhythmics (eg, flecainide, propafenone) have a strong binding affinity and dissociate primarily during diastole, a(n) **increased** heart rate results in a longer **QRS** complex
+
+---
+
+# Answer
+Flecainide, propafenone.  “Can I have fries, please?”  Increased HR shortens diastole (by shortening diastasis), thus less time for class IC to dissociate, resulting in a stronger effect on phase 0 of the action potential (and thus lengthening of QRS)
